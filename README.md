@@ -64,8 +64,5 @@ dr
 - Directory and file metadata are always consistent with the simulated disk state.
 - The emulator is self-contained and does not persist data between runs.
 
-## Authors
-- [Your Name Here]
-
 ---
 This emulator is designed for educational use in UC Irvine's CS 143B course to illustrate file system principles and provide hands-on experience with file system operations.
